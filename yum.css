@@ -1,0 +1,29 @@
+p{
+    font-size:19px; 
+    text-transform:inherit;
+    color:black;
+    font-family:Times;
+    background-color:white;
+    padding:20px 20px;
+    }
+
+    body {
+    margin:20px;
+    padding:20px;
+    
+    }
+    .element{
+    position: absolute;
+    top:0px; right: 0px; font-family:time; font-size:large; color:maroon}
+
+ body{background-color: white;}
+
+ body{background-image: url(4.jpg); 
+ }
+
+body{font-family: cursive; font-size:14px;color:maroon}
+a:hover{
+        font-size: 14px;
+        background-color: gold;
+        text-decoration-line: underline;font-family: cursive }
+p{font-size: 14pt; font-family: times; color: maroon; font-weight: inherit}

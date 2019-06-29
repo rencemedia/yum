@@ -1,0 +1,21 @@
+
+p{
+    font-size:19px; 
+    text-transform:inherit;
+    color:black;
+    font-family:Times;
+    background-color:white;
+    padding:20px 20px;
+    }
+    body {
+    margin:20px;
+    padding:20px;}
+    body{background-image: url(9.jpg);
+ }
+p{ font-size: x-large; font-family: times; color: maroon}
+img{
+    height: 600px; width: 1230px;}
+    .element{
+    position: relative;bottom:18px; font-size: 16px; font-family: cursive; color:black }
+    .wrapper{
+        max-width: 400px; padding: 24px; margin: 0 auto; color: black}
